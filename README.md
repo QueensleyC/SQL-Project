@@ -1,5 +1,5 @@
 # SQL-Project
-This is a personal SQL project that I did during my training at Udacity
+In this project, I queried the __Sakila DVD Rental__ database. The Sakila Database holds information about a company that rents movie DVDs.
 
 ## Task
 Investigate a Relational Database.
@@ -16,7 +16,7 @@ Investigate a Relational Database.
 - Indicate which code in the attached text file was used to create the visualization OR add the query used to generate the visualization.
 
 ## Dataset Description
-The DVD rental database represents the business processes of a DVD rental store. To know more about the database, go [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
+The DVD rental database represents the business processes of a DVD rental store. To know more about the database, click [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
 ## ER Diagram
 ![Entity Relationship Diagram for the Database Analysed](/dvd-rental-erd.png)
